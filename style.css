@@ -1,0 +1,30 @@
+   .attribution { font-size: 11px; text-align: center; }
+    .attribution a { color: hsl(228, 45%, 44%); }
+
+  .grid-container {
+  	justify-content: center;
+  }
+
+ nav {
+ 	background-color: #d0aef5;
+ }
+
+ section {
+ 	background-color: #c1eda6;
+ }
+
+ aside {
+ 	background-color: #b8def2;
+ }
+
+ .grid-nav {
+ 	grid-auto-columns: 3,auto;
+ }
+
+.grid-section {
+	grid-auto-columns: 1,auto;
+}
+
+.grid-aside {
+	grid-auto-columns: 1,auto;
+}
